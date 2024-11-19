@@ -1,0 +1,8 @@
+matplotlib==3.7.1
+numpy==1.23.5
+torch==1.13.1
+pandas==1.3.5
+PyYAML>=6.0,<6.1
+scikit_learn==1.0.2
+timesynth==0.2.4
+TSInterpret>=0.2.3,<0.3.3
